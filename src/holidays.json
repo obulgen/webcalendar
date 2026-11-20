@@ -1,0 +1,29 @@
+{
+  "_nota": "status: oficial = fijado por Ley 27.399 o norma citada; calculado = aplicando art. 6 de la Ley 27.399, confirmar con el decreto; pendiente = aún sin decreto. Actualizar vía HOLIDAYS_URL.",
+  "items": [
+    {"d":"2026-11-09","n":"Visita del Papa (feriado nacional)","t":"nacional","s":"oficial","src":"Gobierno nacional, sept. 2026"},
+    {"d":"2026-11-10","n":"Visita del Papa (Córdoba)","t":"provincial","s":"oficial","src":"Gobierno nacional, sept. 2026"},
+    {"d":"2026-11-23","n":"Día de la Soberanía Nacional (traslado)","t":"nacional","s":"calculado","src":"Ley 27.399 art. 6; verificar decreto"},
+    {"d":"2026-12-07","n":"Día no laborable con fines turísticos","t":"nolaborable","s":"oficial","src":"Resolución 164/2025 JGM"},
+    {"d":"2026-12-08","n":"Inmaculada Concepción de María","t":"nacional","s":"oficial","src":"Ley 27.399"},
+    {"d":"2026-12-25","n":"Navidad","t":"nacional","s":"oficial","src":"Ley 27.399"},
+    {"d":"2027-01-01","n":"Año Nuevo","t":"nacional","s":"oficial","src":"Ley 27.399"},
+    {"d":"2027-02-08","n":"Carnaval","t":"nacional","s":"oficial","src":"Ley 27.399 (Pascua 28/03/2027)"},
+    {"d":"2027-02-09","n":"Carnaval","t":"nacional","s":"oficial","src":"Ley 27.399 (Pascua 28/03/2027)"},
+    {"d":"2027-03-24","n":"Día de la Memoria por la Verdad y la Justicia","t":"nacional","s":"oficial","src":"Ley 27.399"},
+    {"d":"2027-03-25","n":"Jueves Santo","t":"nolaborable","s":"oficial","src":"Ley 27.399"},
+    {"d":"2027-03-26","n":"Viernes Santo","t":"nacional","s":"oficial","src":"Ley 27.399"},
+    {"d":"2027-04-02","n":"Día del Veterano y de los Caídos en Malvinas","t":"nacional","s":"oficial","src":"Ley 27.399"},
+    {"d":"2027-05-01","n":"Día del Trabajador","t":"nacional","s":"oficial","src":"Ley 27.399"},
+    {"d":"2027-05-25","n":"Día de la Revolución de Mayo","t":"nacional","s":"oficial","src":"Ley 27.399"},
+    {"d":"2027-06-21","n":"Paso a la Inmortalidad de Güemes (traslado)","t":"nacional","s":"calculado","src":"Ley 27.399 art. 6"},
+    {"d":"2027-06-20","n":"Paso a la Inmortalidad de Belgrano","t":"nacional","s":"oficial","src":"Ley 27.399"},
+    {"d":"2027-07-09","n":"Día de la Independencia","t":"nacional","s":"oficial","src":"Ley 27.399"},
+    {"d":"2027-08-16","n":"Paso a la Inmortalidad de San Martín (traslado)","t":"nacional","s":"calculado","src":"Ley 27.399 art. 6"},
+    {"d":"2027-10-11","n":"Día del Respeto a la Diversidad Cultural (traslado)","t":"nacional","s":"calculado","src":"Ley 27.399 art. 6"},
+    {"d":"2027-11-20","n":"Día de la Soberanía Nacional","t":"nacional","s":"pendiente","src":"Cae sábado: depende del decreto"},
+    {"d":"2027-12-08","n":"Inmaculada Concepción de María","t":"nacional","s":"oficial","src":"Ley 27.399"},
+    {"d":"2027-12-25","n":"Navidad","t":"nacional","s":"oficial","src":"Ley 27.399"},
+    {"d":"2027-07-06","n":"Fundación de Córdoba (asueto administrativo, capital)","t":"provincial","s":"calculado","src":"Ley provincial 6326 art. 2; verificar"}
+  ]
+}
